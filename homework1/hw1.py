@@ -20,7 +20,7 @@ def return_lowercased_string(input_string):
     Return it but the lowercase version of it."""
 
     return_value = input_string.lower()
-    return return_value 
+    return return_value
 
 
 def return_without_starting_ending_whitespace(input_string):
@@ -28,7 +28,7 @@ def return_without_starting_ending_whitespace(input_string):
     Return it but with the surrounding (left and right) whitespace stripped."""
 
     return_value = input_string.strip()
-    return return_value 
+    return return_value
 
 
 def return_addition(first_number, second_number):
