@@ -29,4 +29,3 @@ def return_without_starting_ending_whitespace(input_string):
 
     return_value = input_string
     return return_value
-    
