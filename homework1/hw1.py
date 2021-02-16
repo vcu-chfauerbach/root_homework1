@@ -29,10 +29,3 @@ def return_without_starting_ending_whitespace(input_string):
 
     return_value = input_string
     return return_value
-
-
-def return_addition(first_number, second_number):
-    """ Return the two numbers added together. """
-
-    return_value = None
-    return return_value
