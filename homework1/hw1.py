@@ -5,7 +5,7 @@ def return_number_3():
     """ This function should return an integer with the value of 3"""
 
     return_number_3 == 3
-    return return_number_3
+  
 
 
 def return_string_vcu():
@@ -20,7 +20,7 @@ def return_lowercased_string(input_string):
     Return it but the lowercase version of it."""
 
     return_lowercased_string("HI THERE") == "hi there"
-    return return_lowercased_string
+  
 
 
 def return_without_starting_ending_whitespace(input_string):
@@ -36,3 +36,4 @@ def return_addition(first_number, second_number):
 
     return_addition(9,1) == 10
     return return_addition
+
