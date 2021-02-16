@@ -4,36 +4,36 @@
 def return_number_3():
     """ This function should return an integer with the value of 3"""
 
-    return_number_3 == 3
+    return_value = 3
+    return return_value
   
 
 
 def return_string_vcu():
     """ This function should return a string with the lowercase value of vcu"""
 
-    return_string_vcu == "vcu"
-    return return_string_vcu
+    return_value = "vcu"
+    return return_value
 
 
 def return_lowercased_string(input_string):
     """You have a variable called input_string that is of type string.
     Return it but the lowercase version of it."""
 
-    return_lowercased_string("HI THERE") == "hi there"
-  
+    return_value = input_string.lower()
+    return return_value 
 
 
 def return_without_starting_ending_whitespace(input_string):
     """You have a variable called input_string that is of type string.
     Return it but with the surrounding (left and right) whitespace stripped."""
 
-    return_without_starting_ending_whitespace("       asdfghhjkl         ") == "asdfghhjkl"
-    return return_without_starting_ending_whitespace
-
+    return_value =input_string.strip
+    return return_value
 
 def return_addition(first_number, second_number):
     """ Return the two numbers added together. """
 
-    return_addition(9,1) == 10
-    return return_addition
+    return_value = first_number + second_number
+    return return_value
 
